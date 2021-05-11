@@ -16,7 +16,6 @@
 
 **Project Links** -> 
 - HMSuite ([*Click Here*](https://xd.adobe.com/view/8314d631-45da-4a96-ba06-2e0e8400f853-d647/grid))
-<br>
 
 ---
 
@@ -41,11 +40,10 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Projects
 
-`1. HMSuite`
+1. **HMSuite** ([*Click Here*](https://xd.adobe.com/view/8314d631-45da-4a96-ba06-2e0e8400f853-d647/grid))
 
 ![Product Name Screen Shot][product-screenshot]
 
-**HMSuite** ([*Click Here*](https://xd.adobe.com/view/8314d631-45da-4a96-ba06-2e0e8400f853-d647/grid))
 
 *Hotel Managers find difficulty in storing records of guests offline in registers and entering new check-in to it. They also face the problem in contacting with their staff. They want a medium to take the feedback of the customers for improving their hotel service.
 <br>
@@ -72,9 +70,9 @@ Project Links:
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-* [Prakhar Rai](prakhar20099@iiitd.ac.in)
-* [Vaibhav Joshi](vaibhav20145@iiitd.ac.in)
-* [Keshav Goel](keshav20512@iiitd.ac.in)
+* Prakhar Rai - prakhar20099@iiitd.ac.in
+* Vaibhav Joshi - vaibhav20145@iiitd.ac.in
+* Keshav Goel - keshav20512@iiitd.ac.in
 * [Flaticon](https://flaticon.com)
 
 
