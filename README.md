@@ -16,7 +16,7 @@
 
 **Project Links** -> 
 - HMSuite (*High-Fidelity Wireframe*) ([*Click Here*](https://xd.adobe.com/view/8314d631-45da-4a96-ba06-2e0e8400f853-d647/grid))
-- Table Lamp (*CAD Model*) ([*Click Here*](https://github.com/Aaryan-R-S/Design-Projects/tree/master/Table-Lamp))
+- Table Lamp (*CAD Model*) ([*Click Here*](https://github.com/Aaryan-R-S/Design-Projects/tree/master/Table%20Lamp))
 
 
 #### **Projects** ->
@@ -55,7 +55,7 @@ Project Links:
 * Vaibhav Joshi - vaibhav20145@iiitd.ac.in
 * Keshav Goel - keshav20512@iiitd.ac.in
 
-## 2. **Table Lamp** ([*Click Here*](https://github.com/Aaryan-R-S/Design-Projects/tree/master/Table-Lamp))
+## 2. **Table Lamp** ([*Click Here*](https://github.com/Aaryan-R-S/Design-Projects/tree/master/Table%20Lamp))
 
 ![Product Name Screen Shot][product-screenshot-2]
 
@@ -78,7 +78,7 @@ Feel free to clone and modify according to your needs. But please give desirable
 Email ID - aaryan20004@iiitd.ac.in
 
 Project Links:
-- Table Lamp ([*Click Here*](https://github.com/Aaryan-R-S/Design-Projects/tree/master/Table-Lamp))
+- Table Lamp ([*Click Here*](https://github.com/Aaryan-R-S/Design-Projects/tree/master/Table%20Lamp))
 
 
 <!-- ACKNOWLEDGEMENTS -->
